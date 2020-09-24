@@ -5,10 +5,20 @@
 ### Updated 2020
 
 Python
-FastAPI
+fastapi
+starlette
+flask
+japronto
+sanic
+tornado
+
 Nodejs
+uwsjs
+ex4s
+express
+koa
+
 Golang
-PyPy?
 
 https://www.techempower.com/benchmarks/#section=data-r19&hw=ph&test=composite&l=z8ixvj-f&a=2
 
